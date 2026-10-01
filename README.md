@@ -7,7 +7,7 @@
 [![Physics Core](https://img.shields.io/badge/Core-subatomic--materials--suite-orange.svg)](https://github.com/Abhishek1033ubuntu/subatomic-materials-suite) 
 [![Status](https://img.shields.io/badge/Status-Verified%20%26%20Passed-success.svg)](#) 
 [![Atten. Gain](https://img.shields.io/badge/Modal%20Attenuation-21.4%20dB-blueviolet.svg)](#) 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/acoustic-structural-resonance-suite/blob/main/src/acoustic_structural_resonance.py) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/acoustic-structural-resonance-suite/blob/main/src/acoustic_structural_resonance.ipynb) 
 [![Powered by Gemini](https://img.shields.io/badge/AI%20Collaborator-Gemini-8E75B5?logo=googlegemini&logoColor=white)](https://gemini.google.com) 
 
 ---
@@ -50,3 +50,5 @@ If you utilize this repository, the Fe-58.5Mn-26Si-6Cr-5Ni-3C-1.5 alloy formulat
 ```
 ## Associated Repositories
 [subatomic-materials-suite](https://github.com/Abhishek1033ubuntu/subatomic-materials-suite) — Ab initio molecular modeling engine used for Fe-SMA lattice optimization.
+
+> **Interactive Cloud Execution:** Click the **Open in Colab** badge above to launch and execute the full multi-physics simulation directly in your browser without installing local dependencies.
