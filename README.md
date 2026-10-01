@@ -21,3 +21,17 @@ Acoustic pressure waves in high-bypass turbofan ducting can lock onto structural
 pip install -r requirements.txt
 python src/acoustic_structural_resonance.py
 ```
+## Citations and References
+
+If you utilize this repository, the Fe-58.5Mn-26Si-6Cr-5Ni-3C-1.5 alloy formulation, or the dynamic modulus detuning architecture in your research or patent disclosures, please cite this work as follows:
+
+```bibtex
+@misc{singh2026acoustic,
+  author = {Singh, Abhishek},
+  title = {Acoustic/Structural Resonance Lock-In Suppression via Self-Adaptive Fe-SMA Metamaterials},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{[https://github.com/Abhishek1033ubuntu/acoustic-structural-resonance-suite](https://github.com/Abhishek1033ubuntu/acoustic-structural-resonance-suite)}}
+}
+```
