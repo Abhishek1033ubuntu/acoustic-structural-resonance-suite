@@ -1,11 +1,3 @@
-# Auto-install dependencies if running inside Google Colab
-try:
-    import google.colab
-    IN_COLAB = True
-    !pip install -q numpy matplotlib
-except ImportError:
-    IN_COLAB = False
-
 import numpy as np
 import matplotlib.pyplot as plt
 import numpy as np
