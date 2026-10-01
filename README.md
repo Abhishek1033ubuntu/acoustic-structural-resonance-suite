@@ -36,4 +36,4 @@ If you utilize this repository, the Fe-58.5Mn-26Si-6Cr-5Ni-3C-1.5 alloy formulat
 }
 ```
 ## Associated Repositories
-subatomic-materials-suite — Ab initio molecular modeling engine used for Fe-SMA lattice optimization.
+[subatomic-materials-suite](https://github.com/Abhishek1033ubuntu/subatomic-materials-suite) — Ab initio molecular modeling engine used for Fe-SMA lattice optimization.
