@@ -35,3 +35,5 @@ If you utilize this repository, the Fe-58.5Mn-26Si-6Cr-5Ni-3C-1.5 alloy formulat
   howpublished = {\url{[https://github.com/Abhishek1033ubuntu/acoustic-structural-resonance-suite](https://github.com/Abhishek1033ubuntu/acoustic-structural-resonance-suite)}}
 }
 ```
+## Associated Repositories
+subatomic-materials-suite — Ab initio molecular modeling engine used for Fe-SMA lattice optimization.
