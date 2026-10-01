@@ -1,6 +1,16 @@
 # Acoustic-Structural Resonance Lock-In Suppression via Fe-SMA Metamaterial
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23083514-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23083514) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/Abhishek1033ubuntu/acoustic-structural-resonance-suite/releases/tag/v1.0.0) 
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg)](https://www.python.org/downloads/) 
+[![Physics Core](https://img.shields.io/badge/Core-subatomic--materials--suite-orange.svg)](https://github.com/Abhishek1033ubuntu/subatomic-materials-suite) 
+[![Status](https://img.shields.io/badge/Status-Verified%20%26%20Passed-success.svg)](#) 
+[![Atten. Gain](https://img.shields.io/badge/Modal%20Attenuation-21.4%20dB-blueviolet.svg)](#) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/acoustic-structural-resonance-suite/blob/main/src/acoustic_structural_resonance.py) 
+[![Powered by Gemini](https://img.shields.io/badge/AI%20Collaborator-Gemini-8E75B5?logo=googlegemini&logoColor=white)](https://gemini.google.com) 
+
+---
 
 
 **Matter ID:** [Pending Assignment]  
