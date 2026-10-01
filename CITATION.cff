@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this research or cryogenic thermal solver in your work, please cite it as below."
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+    orcid: "https://orcid.org/0009-0004-6913-096X"
+title: "acoustic-structural-resonance-suite"
+version: "1.0.1"
+date-released: 2026-10-01
+url: "https://github.com/Abhishek1033ubuntu/acoustic-structural-resonance-suite"
+repository-code: "https://github.com/Abhishek1033ubuntu/acoustic-structural-resonance-suite"
