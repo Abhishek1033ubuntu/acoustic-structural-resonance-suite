@@ -1,5 +1,8 @@
 # Acoustic-Structural Resonance Lock-In Suppression via Fe-SMA Metamaterial
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23083514-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23083514) 
+
+
 **Matter ID:** [Pending Assignment]  
 **Lead Author / Sole Inventor:** Abhishek Singh | UIDAI: 9414 9122 9013  
 **Associated Core:** `subatomic-materials-suite`  
